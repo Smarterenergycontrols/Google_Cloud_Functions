@@ -1,0 +1,9 @@
+{
+  "name": "settingsToFirestore",
+  "author": "robertcarroll84@gmail.com",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "firebase-admin": "^5.12.1"
+  }
+}
